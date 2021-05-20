@@ -1,5 +1,5 @@
 # datatug-pwa
-DataTug.app - Progressive Web App
+[DataTug.app](https://datatug.app) - Progressive Web App
 
 This repository is used only for tracking issues related to DataTug.app
 
